@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
 
 ## Results
 
-The project achieves competitive results in the Kaggle competition. You can find the competition submission [here]([https://www.kaggle.com/c/house-prices-advanced-regression-techniques/submit](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)).
+The project achieves competitive results in the Kaggle competition. You can find the competition submission [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard).
 
 ## License
 
